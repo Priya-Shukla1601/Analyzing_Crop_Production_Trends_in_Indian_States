@@ -1,4 +1,5 @@
-**Analyzing Crop Production Trends in Indian State**
+## Analyzing Crop Production Trends in Indian State
+
 This repository contains my complete data analysis project focused on understanding crop production patterns across Indian states using real-world agricultural data.
 
 Through this project, I performed end-to-end Exploratory Data Analysis (EDA) to uncover trends, key factors influencing yield, state-wise comparisons, and relationships between variables such as crop type, season, and production quantity.
